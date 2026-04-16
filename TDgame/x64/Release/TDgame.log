@@ -1,0 +1,8 @@
+﻿  main.cpp
+    正在创建库 D:\development game\TDgame\x64\Release\TDgame.lib 和对象 D:\development game\TDgame\x64\Release\TDgame.exp
+  正在生成代码
+  15 of 2737 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    10 functions were new in current compilation
+    34 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  TDgame.vcxproj -> D:\development game\TDgame\x64\Release\TDgame.exe
